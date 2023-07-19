@@ -1,0 +1,1 @@
+## all code related how to transform data probably how to change the categorical features into numerical features, how to handle lable coding.  
